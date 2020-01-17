@@ -24,7 +24,7 @@ int main()
 
     while (weStillRead == 1){
         printf("\n\n SIMULATION OF CPU SCHEDULING ALGORITHMS\n");
-        printf("\n Chose one simpatikule:\n");
+        printf("\n Choose one :\n");
         printf("\n 0. Enter process data.");
         printf("\n 1. FCFS");
         printf("\n 2. SJF (Pre-emptive)");
@@ -54,7 +54,7 @@ int main()
             printf("\n\nThe program is DED now X0\n\n");
         }
         else if (chose == 6 ){
-	        printf("\n Chose one to initialize the scenario for:");
+	        printf("\n Choose one to initialize the scenario for:");
 	        printf("\n 1. FCFS");
 	        printf("\n 2. SJF (Pre-emptive)");
 	        printf("\n 3. SJF (Non Pre-emptive)");
